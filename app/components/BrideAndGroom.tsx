@@ -17,15 +17,15 @@ const BrideAndGroom = () => {
               className="w-48 h-48 rounded-full mb-8"
             />
             <h3 className="text-5xl font-medium font-head mb-4 text-gray-800">
-              Rossiani Hutami
+              Freshka Julie Hardi
             </h3>
             <div className="mb-4">
               <TextWithLine>Pengantin Perempuan</TextWithLine>
             </div>
             <p className="font-sans text-gray-500 leading-6">
-              Lahir pada 31 Februari 1999 di Curup, Bengkulu. Putri Bungsu dari{" "}
-              <strong>Bapak Edward Newgate (Alm.)</strong> dan{" "}
-              <strong>Ibu Ross Newgate</strong>.
+              Lahir pada 28 Juli 1993 di Batusangkar, Sumatera Barat. Putri Sulung dari{" "}
+              <strong>Bapak Jon Hardi</strong> dan{" "}
+              <strong>Ibu Yunardah</strong>.
             </p>
           </div>
         </div>
@@ -39,7 +39,7 @@ const BrideAndGroom = () => {
                 className="w-48 h-48 rounded-full mb-8"
               />
               <h3 className="text-5xl font-medium font-head mb-4 text-gray-800">
-                Fauzi Al Aziz
+                Kurniawan Aji Muhammad
               </h3>
             </div>
             <div className="flex flex-col items-center">

@@ -10,16 +10,16 @@ const DigitalEnvelope = () => {
       <div className=" flex justify-evenly flex-col md:flex-row md:flex-wrap">
         <div className="px-4 mb-10">
           <DebitCard
-            bank="BCA"
+            bank="Mandiri"
             accountNumber="7401557702"
-            name="Rossiani Hutami"
+            name="Freshka Julie Hardi"
           />
         </div>
         <div className="px-4 mb-10">
           <DebitCard
             bank="BCA"
             accountNumber="1450055294"
-            name="Fauzi Al Aziz"
+            name="Kurniawan Aji Muhammad"
           />
         </div>
       </div>

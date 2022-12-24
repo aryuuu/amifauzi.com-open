@@ -36,22 +36,22 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => {
   return {
-    title: "Undangan Pernikahan - Ami & Fauzi",
+    title: "Undangan Pernikahan - Freshka & Aji",
     description:
-      "Sabtu, 30 Juli 2022 di Taman Mini Perumnas Batu Galing, Bengkulu",
+      "Sabtu, 18 Februari 2023 di Hotel Emersia, Batusangkar",
 
     "og:image": ogimage,
     "og:image:type": "image/jpeg",
-    "og:site_name": "amifauzi",
+    "og:site_name": "freshkaaji",
     "og:url": "https://www.amifauzi.com/",
-    "og:title": "Undangan Pernikahan - Ami & Fauzi",
-    "og:description": `Sabtu, 30 Juli 2022 di Taman Mini Perumnas Batu Galing, Bengkulu`,
+    "og:title": "Undangan Pernikahan - Freshka & Aji",
+    "og:description": `Sabtu, 18 Februari 2023 di Hotel Emersia, Batusangkar`,
     "og:type": "website",
 
     "twitter:image": ogimage,
     "twitter:card": "summary_large_image",
     "twitter:description":
-      "Sabtu, 30 Juli 2022 di Taman Mini Perumnas Batu Galing, Bengkulu",
+      "Sabtu, 18 Februari 2023 di Hotel Emersia, Batu Sangkar",
   };
 };
 

@@ -9,8 +9,8 @@ import Message from "~/components/Message";
 import SectionWrapper from "~/components/Utils/SectionWrapper";
 import WelcomeModal from "~/components/WelcomeModal";
 import { indexAction, indexLoader } from "~/controls";
-import heroBg from "~/images/hero-bg.jpg";
-import heroBgMobile from "~/images/hero-bg-mobile.jpg";
+import heroBg from "~/images/cabal.jpg";
+import heroBgMobile from "~/images/cabal.jpg";
 import MusicPlayer from "~/components/MusicPlayer";
 import GalleryPhotos from "~/components/GalleryPhotos";
 
@@ -59,7 +59,7 @@ export default function Index() {
             className="text-center font-black font-sans text-md text-[#EFEFEF] italic border-t-2 border-[#CE7BB0] pt-3"
             style={{ textShadow: "2px 2px 1px #CE7BB0" }}
           >
-            30.07.2022
+            18.02.2023
           </div>
         </div>
       </div>
