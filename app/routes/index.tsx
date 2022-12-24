@@ -5,7 +5,7 @@ import BrideAndGroom from "~/components/BrideAndGroom";
 import Countdown from "~/components/Countdown";
 import DigitalEnvelope from "~/components/DigitalEnvelope";
 import LocationMap from "~/components/LocationMap";
-import Message from "~/components/Massage";
+import Message from "~/components/Message";
 import SectionWrapper from "~/components/Utils/SectionWrapper";
 import WelcomeModal from "~/components/WelcomeModal";
 import { indexAction, indexLoader } from "~/controls";
@@ -53,7 +53,7 @@ export default function Index() {
             className="text-center font-head font-bold text-5xl mb-4 text-[#EFEFEF]"
             style={{ textShadow: "3px 3px 1px #CE7BB0" }}
           >
-            Ami & Fauzi
+            Freshka & Aji
           </h4>
           <div
             className="text-center font-black font-sans text-md text-[#EFEFEF] italic border-t-2 border-[#CE7BB0] pt-3"
