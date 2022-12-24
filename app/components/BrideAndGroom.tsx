@@ -1,10 +1,10 @@
 import TextWithLine from "./Utils/TextWithLine";
-import bride from "~/images/ami-img.jpg";
+import bride from "~/images/ikuk-sample-close-up.jpg";
 import groom from "~/images/fauzi-img.jpg";
 
 const BrideAndGroom = () => {
   return (
-    <div className="pt-20 pb-4">
+    <div className="pt-20 pb-4 bg-[#fff] rounded-xl">
       <h3 className="text-3xl text-center font-sans font-bold text-gray-700 mb-6">
         Kami yang Berbahagia
       </h3>
@@ -22,7 +22,7 @@ const BrideAndGroom = () => {
             <div className="mb-4">
               <TextWithLine>Pengantin Perempuan</TextWithLine>
             </div>
-            <p className="font-sans text-gray-500 leading-6">
+            <p className="font-sans text-black-500 leading-6">
               Lahir pada 28 Juli 1993 di Batusangkar, Sumatera Barat. Putri Sulung dari{" "}
               <strong>Bapak Jon Hardi</strong> dan{" "}
               <strong>Ibu Yunardah</strong>.

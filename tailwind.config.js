@@ -6,6 +6,7 @@ module.exports = {
     extend: {},
     fontFamily: {
       head: ['"Playfair Display"', "ui-sans-serif", "system-ui"],
+      subtitle: ['"Numans"', "ui-sans-serif", "system-ui"],
       sans: ['"Plus Jakarta Sans"', ...defaultTheme.fontFamily.sans],
     },
   },
